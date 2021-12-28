@@ -1,1 +1,1 @@
-# Machine Learning Stanford University Course by Andrew Ng
+# Machine Learning Stanford University Course - Andrew Ng
